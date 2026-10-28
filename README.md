@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040071
+# Name:P.Dharshini
+# Date:28.10.2026
 
 
 # AIM:
@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="875" height="727" alt="image" src="https://github.com/user-attachments/assets/4d142f70-9e09-4a7f-a4ff-1411384cdfed" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="870" height="632" alt="image" src="https://github.com/user-attachments/assets/7e5256a1-1190-41ea-bd14-687eb06a3b30" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="862" height="601" alt="image" src="https://github.com/user-attachments/assets/1d9a0540-4408-4e7b-951d-d5c0887d6277" />
 
 
 # PACKAGE DIAGRAM:
@@ -88,6 +91,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="853" height="548" alt="image" src="https://github.com/user-attachments/assets/afc6465a-664d-4ec0-bec6-f22bff73cccc" />
 
 
 
